@@ -30,11 +30,11 @@ The objective of Quotopia is to create a platform where users can discover, shar
 ## Running the Application
   Got to the Project folder then follow these steps for front end 
    * Install Dependencies
-       - npm install
+       * npm install
    * Run The Application
-       -npm start
+       * npm start
   To Run the Backend
-       -node app.js          
+       * node app.js          
 
 ### `npm run eject`
 
