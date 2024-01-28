@@ -6,13 +6,16 @@ Quotopia is a quotes website dedicated to inspiring its users. It offers a colle
 
 The objective of Quotopia is to create a platform where users can discover, share, and be inspired by a wide range of quotes from notable individuals. It aims to foster a sense of motivation and empowerment by providing access to uplifting and thought-provoking quotes. Additionally, Quotopia seeks to encourage user engagement by allowing individuals to contribute their own quotes, as well as manage and personalize their quote collections by updating and deleting their submissions.
 
-### Tech Stack
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ### Front End
+  * React.js
+  * JavaScript
+  * CSS
+ ### Back End
+  * SQLite
+  * Node.js with Express.js
+  * REST APIs
 
 ### `npm test`
 
