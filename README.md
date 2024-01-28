@@ -23,6 +23,9 @@ The objective of Quotopia is to create a platform where users can discover, shar
    * React Router Dom
    * js cookie
    * react loader spinner
+  ### Back End
+   * Json Web token
+   * Bcrypt
 
 ### `npm run build`
 
