@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Quotopia
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Quotopia is a quotes website dedicated to inspiring its users. It offers a collection of quotes from great people to uplift and motivate visitors. Additionally, users can contribute to the platform by writing and uploading their own quotes. Quotopia also allows users to update and delete their previously uploaded quotes, providing a personalized experience for sharing and reflecting on inspiring words.
 
 ## Available Scripts
 
