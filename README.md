@@ -2,11 +2,11 @@
 
 Quotopia is a quotes website dedicated to inspiring its users. It offers a collection of quotes from great people to uplift and motivate visitors. Additionally, users can contribute to the platform by writing and uploading their own quotes. Quotopia also allows users to update and delete their previously uploaded quotes, providing a personalized experience for sharing and reflecting on inspiring words.
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+The objective of Quotopia is to create a platform where users can discover, share, and be inspired by a wide range of quotes from notable individuals. It aims to foster a sense of motivation and empowerment by providing access to uplifting and thought-provoking quotes. Additionally, Quotopia seeks to encourage user engagement by allowing individuals to contribute their own quotes, as well as manage and personalize their quote collections by updating and deleting their submissions.
 
-### `npm start`
+### Tech Stack
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
