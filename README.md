@@ -33,7 +33,7 @@ The objective of Quotopia is to create a platform where users can discover, shar
        * npm install
    * Run The Application
        * npm start
-  To Run the Backend
+   * To Run the Backend
        * node app.js          
 
 ### `npm run eject`
